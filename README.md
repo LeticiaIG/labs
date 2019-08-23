@@ -1,7 +1,5 @@
 
 
-# Ironhack Data Analytics Labs
-
 ## Getting Started
 
 1. Install [grip](https://github.com/joeyespo/grip) with `brew install grip` (Mac) or `pip install grip` (Windows).
